@@ -1,0 +1,37 @@
+# --- Core LangChain (LCEL / Runnables) ---
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-community==0.3.27
+langchain-anthropic==1.7.2
+
+# --- LangGraph ---
+langgraph==0.6.7
+
+# --- Streamlit UI ---
+streamlit==1.64.0
+
+# --- PDF export ---
+markdown
+xhtml2pdf
+
+# --- Rich terminal output ---
+rich
+
+# --- Tavily search tool ---
+tavily-python==0.7.11
+
+# --- Web scraping tool (BeautifulSoup) ---
+beautifulsoup4==4.13.5
+requests==2.32.5
+lxml==5.3.0
+
+# --- HTTP / async ---
+httpx==0.28.1
+aiohttp==3.12.15
+
+# --- Env / config management ---
+python-dotenv==1.1.1
+
+# --- Data / serialization ---
+pydantic==2.11.7
+orjson==3.11.3
